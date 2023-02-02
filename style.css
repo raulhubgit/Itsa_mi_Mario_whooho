@@ -1,0 +1,37 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+.bigImage{
+    width: 100%;
+}
+#start{
+    font-size: 22px;
+}
+#codigoFont{
+    background-color: black;
+    line-height: 2;
+    color: white;
+    margin: 0px;
+}
+.modal-dialog{
+    width: 90%;
+
+}
+.instruction-image{
+    display: inline-block;
+    width: 45%;
+}
+.Cavalo{
+    background: url('game_console.png');
+    background-position: center;  
+    width: 700px;
+    padding: 25px;
+}
